@@ -1,0 +1,51 @@
+employee_id,full_name,department,job_title,salary,date_of_joining,is_active
+1,Noah Johnson,Finance,Senior Accountant,56785.29,2017-07-28,True
+2,Benjamin Williams,Sales,Sales Representative,33575.67,2023-05-19,True
+3,Henry Johnson,HR,Compensation Analyst,56452.87,2019-03-23,True
+4,Ava Garcia,Sales,Sales Manager,63344.56,2023-06-02,False
+5,Isabella Brown,Engineering,Data Engineer,41605.97,2016-04-29,True
+6,Mia Smith,Sales,Sales Representative,146773.89,2021-08-02,True
+7,Mason Martin,Finance,Finance Manager,53074.63,2025-01-19,True
+8,Lucas Martinez,Engineering,Senior Software Engineer,133978.04,2021-07-27,True
+9,Ethan Garcia,Finance,Controller,55140.84,2022-11-02,True
+10,Olivia Martin,HR,Recruiter,49608.30,2021-07-29,True
+11,Benjamin Davis,Finance,Financial Analyst,57485.77,2025-06-21,True
+12,Amelia Rodriguez,Engineering,Senior Software Engineer,139576.33,2019-06-21,False
+13,Isabella Miller,Sales,Customer Success Manager,136161.98,2018-08-15,True
+14,Mia Jones,HR,HR Manager,119641.66,2021-01-10,False
+15,Amelia Lopez,HR,Recruiter,91143.16,2024-10-23,True
+16,Noah Jones,HR,Compensation Analyst,101569.08,2021-07-07,True
+17,Harper Taylor,Finance,Finance Manager,133293.56,2025-09-13,True
+18,Noah Moore,Finance,Controller,43386.26,2020-12-15,True
+19,Ava Rodriguez,HR,HR Generalist,134462.23,2022-06-26,True
+20,Evelyn Martin,HR,Recruiter,74869.66,2024-01-08,True
+21,Evelyn Johnson,Finance,Payroll Specialist,32337.21,2021-10-05,False
+22,Mason Davis,Engineering,Senior Software Engineer,135361.15,2024-12-12,True
+23,James Williams,HR,Recruiter,109170.10,2019-09-01,True
+24,Evelyn Martin,Sales,Account Executive,141469.62,2017-05-12,True
+25,Sophia Martinez,Sales,Sales Manager,82572.01,2020-01-11,True
+26,Lucas Davis,Engineering,DevOps Engineer,32524.11,2019-08-15,True
+27,Lucas Johnson,Engineering,Engineering Manager,105732.35,2023-04-07,True
+28,Liam Hernandez,Engineering,QA Engineer,58560.56,2018-04-30,True
+29,Benjamin Jones,Sales,Account Executive,124154.33,2016-10-10,True
+30,Noah Brown,Sales,Sales Manager,80829.43,2020-08-05,False
+31,Liam Brown,Engineering,Data Engineer,117385.63,2016-11-07,False
+32,Lucas Miller,HR,Compensation Analyst,46821.88,2023-10-10,True
+33,Lucas Williams,Sales,Sales Representative,36070.60,2019-10-08,True
+34,Olivia Davis,HR,Compensation Analyst,88276.94,2023-06-08,False
+35,Liam Garcia,Sales,Sales Representative,148237.06,2022-11-09,False
+36,Harper Martinez,Sales,Customer Success Manager,48575.62,2022-07-03,True
+37,Liam Jackson,Engineering,Engineering Manager,67632.58,2025-04-08,True
+38,Evelyn Taylor,HR,HR Generalist,145293.47,2024-12-06,False
+39,Olivia Martin,Engineering,Engineering Manager,133418.30,2021-04-21,True
+40,Charlotte Davis,Engineering,QA Engineer,39838.01,2018-06-17,True
+41,Evelyn Hernandez,Finance,Senior Accountant,110367.12,2022-04-23,True
+42,Amelia Jones,Finance,Payroll Specialist,67941.26,2017-05-26,False
+43,Ava Anderson,Engineering,Software Engineer,94516.13,2020-02-27,True
+44,Ethan Williams,HR,HR Manager,64198.49,2020-12-01,True
+45,Mason Martin,Engineering,Engineering Manager,128052.50,2022-06-22,False
+46,Noah Jones,Finance,Financial Analyst,136765.52,2017-07-04,True
+47,Mia Martinez,HR,HR Manager,54431.68,2018-09-20,False
+48,Evelyn Thomas,Finance,Financial Analyst,41075.82,2021-01-30,True
+49,Liam Johnson,Finance,Senior Accountant,106453.61,2022-11-23,True
+50,Harper Moore,Sales,Sales Representative,43424.87,2015-12-05,True

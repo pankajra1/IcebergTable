@@ -1,0 +1,43 @@
+{
+  "type": "record",
+  "namespace": "com.example.hr",
+  "name": "fire",
+  "fields": [
+    {
+      "name": "employee_id",
+      "type": "int"
+    },
+    {
+      "name": "full_name",
+      "type": "string"
+    },
+    {
+      "name": "department",
+      "type": "string"
+    },
+    {
+      "name": "job_title",
+      "type": "string"
+    },
+    {
+      "name": "salary",
+      "type": {
+        "type": "bytes",
+        "logicalType": "decimal",
+        "precision": 9,
+        "scale": 2
+      }
+    },
+    {
+      "name": "date_of_joining",
+      "type": {
+        "type": "int",
+        "logicalType": "date"
+      }
+    },
+    {
+      "name": "is_active",
+      "type": "boolean"
+    }
+  ]
+}

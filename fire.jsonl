@@ -1,0 +1,50 @@
+{"employee_id": 1, "full_name": "Noah Johnson", "department": "Finance", "job_title": "Senior Accountant", "salary": "56785.29", "date_of_joining": "2017-07-28", "is_active": true}
+{"employee_id": 2, "full_name": "Benjamin Williams", "department": "Sales", "job_title": "Sales Representative", "salary": "33575.67", "date_of_joining": "2023-05-19", "is_active": true}
+{"employee_id": 3, "full_name": "Henry Johnson", "department": "HR", "job_title": "Compensation Analyst", "salary": "56452.87", "date_of_joining": "2019-03-23", "is_active": true}
+{"employee_id": 4, "full_name": "Ava Garcia", "department": "Sales", "job_title": "Sales Manager", "salary": "63344.56", "date_of_joining": "2023-06-02", "is_active": false}
+{"employee_id": 5, "full_name": "Isabella Brown", "department": "Engineering", "job_title": "Data Engineer", "salary": "41605.97", "date_of_joining": "2016-04-29", "is_active": true}
+{"employee_id": 6, "full_name": "Mia Smith", "department": "Sales", "job_title": "Sales Representative", "salary": "146773.89", "date_of_joining": "2021-08-02", "is_active": true}
+{"employee_id": 7, "full_name": "Mason Martin", "department": "Finance", "job_title": "Finance Manager", "salary": "53074.63", "date_of_joining": "2025-01-19", "is_active": true}
+{"employee_id": 8, "full_name": "Lucas Martinez", "department": "Engineering", "job_title": "Senior Software Engineer", "salary": "133978.04", "date_of_joining": "2021-07-27", "is_active": true}
+{"employee_id": 9, "full_name": "Ethan Garcia", "department": "Finance", "job_title": "Controller", "salary": "55140.84", "date_of_joining": "2022-11-02", "is_active": true}
+{"employee_id": 10, "full_name": "Olivia Martin", "department": "HR", "job_title": "Recruiter", "salary": "49608.30", "date_of_joining": "2021-07-29", "is_active": true}
+{"employee_id": 11, "full_name": "Benjamin Davis", "department": "Finance", "job_title": "Financial Analyst", "salary": "57485.77", "date_of_joining": "2025-06-21", "is_active": true}
+{"employee_id": 12, "full_name": "Amelia Rodriguez", "department": "Engineering", "job_title": "Senior Software Engineer", "salary": "139576.33", "date_of_joining": "2019-06-21", "is_active": false}
+{"employee_id": 13, "full_name": "Isabella Miller", "department": "Sales", "job_title": "Customer Success Manager", "salary": "136161.98", "date_of_joining": "2018-08-15", "is_active": true}
+{"employee_id": 14, "full_name": "Mia Jones", "department": "HR", "job_title": "HR Manager", "salary": "119641.66", "date_of_joining": "2021-01-10", "is_active": false}
+{"employee_id": 15, "full_name": "Amelia Lopez", "department": "HR", "job_title": "Recruiter", "salary": "91143.16", "date_of_joining": "2024-10-23", "is_active": true}
+{"employee_id": 16, "full_name": "Noah Jones", "department": "HR", "job_title": "Compensation Analyst", "salary": "101569.08", "date_of_joining": "2021-07-07", "is_active": true}
+{"employee_id": 17, "full_name": "Harper Taylor", "department": "Finance", "job_title": "Finance Manager", "salary": "133293.56", "date_of_joining": "2025-09-13", "is_active": true}
+{"employee_id": 18, "full_name": "Noah Moore", "department": "Finance", "job_title": "Controller", "salary": "43386.26", "date_of_joining": "2020-12-15", "is_active": true}
+{"employee_id": 19, "full_name": "Ava Rodriguez", "department": "HR", "job_title": "HR Generalist", "salary": "134462.23", "date_of_joining": "2022-06-26", "is_active": true}
+{"employee_id": 20, "full_name": "Evelyn Martin", "department": "HR", "job_title": "Recruiter", "salary": "74869.66", "date_of_joining": "2024-01-08", "is_active": true}
+{"employee_id": 21, "full_name": "Evelyn Johnson", "department": "Finance", "job_title": "Payroll Specialist", "salary": "32337.21", "date_of_joining": "2021-10-05", "is_active": false}
+{"employee_id": 22, "full_name": "Mason Davis", "department": "Engineering", "job_title": "Senior Software Engineer", "salary": "135361.15", "date_of_joining": "2024-12-12", "is_active": true}
+{"employee_id": 23, "full_name": "James Williams", "department": "HR", "job_title": "Recruiter", "salary": "109170.10", "date_of_joining": "2019-09-01", "is_active": true}
+{"employee_id": 24, "full_name": "Evelyn Martin", "department": "Sales", "job_title": "Account Executive", "salary": "141469.62", "date_of_joining": "2017-05-12", "is_active": true}
+{"employee_id": 25, "full_name": "Sophia Martinez", "department": "Sales", "job_title": "Sales Manager", "salary": "82572.01", "date_of_joining": "2020-01-11", "is_active": true}
+{"employee_id": 26, "full_name": "Lucas Davis", "department": "Engineering", "job_title": "DevOps Engineer", "salary": "32524.11", "date_of_joining": "2019-08-15", "is_active": true}
+{"employee_id": 27, "full_name": "Lucas Johnson", "department": "Engineering", "job_title": "Engineering Manager", "salary": "105732.35", "date_of_joining": "2023-04-07", "is_active": true}
+{"employee_id": 28, "full_name": "Liam Hernandez", "department": "Engineering", "job_title": "QA Engineer", "salary": "58560.56", "date_of_joining": "2018-04-30", "is_active": true}
+{"employee_id": 29, "full_name": "Benjamin Jones", "department": "Sales", "job_title": "Account Executive", "salary": "124154.33", "date_of_joining": "2016-10-10", "is_active": true}
+{"employee_id": 30, "full_name": "Noah Brown", "department": "Sales", "job_title": "Sales Manager", "salary": "80829.43", "date_of_joining": "2020-08-05", "is_active": false}
+{"employee_id": 31, "full_name": "Liam Brown", "department": "Engineering", "job_title": "Data Engineer", "salary": "117385.63", "date_of_joining": "2016-11-07", "is_active": false}
+{"employee_id": 32, "full_name": "Lucas Miller", "department": "HR", "job_title": "Compensation Analyst", "salary": "46821.88", "date_of_joining": "2023-10-10", "is_active": true}
+{"employee_id": 33, "full_name": "Lucas Williams", "department": "Sales", "job_title": "Sales Representative", "salary": "36070.60", "date_of_joining": "2019-10-08", "is_active": true}
+{"employee_id": 34, "full_name": "Olivia Davis", "department": "HR", "job_title": "Compensation Analyst", "salary": "88276.94", "date_of_joining": "2023-06-08", "is_active": false}
+{"employee_id": 35, "full_name": "Liam Garcia", "department": "Sales", "job_title": "Sales Representative", "salary": "148237.06", "date_of_joining": "2022-11-09", "is_active": false}
+{"employee_id": 36, "full_name": "Harper Martinez", "department": "Sales", "job_title": "Customer Success Manager", "salary": "48575.62", "date_of_joining": "2022-07-03", "is_active": true}
+{"employee_id": 37, "full_name": "Liam Jackson", "department": "Engineering", "job_title": "Engineering Manager", "salary": "67632.58", "date_of_joining": "2025-04-08", "is_active": true}
+{"employee_id": 38, "full_name": "Evelyn Taylor", "department": "HR", "job_title": "HR Generalist", "salary": "145293.47", "date_of_joining": "2024-12-06", "is_active": false}
+{"employee_id": 39, "full_name": "Olivia Martin", "department": "Engineering", "job_title": "Engineering Manager", "salary": "133418.30", "date_of_joining": "2021-04-21", "is_active": true}
+{"employee_id": 40, "full_name": "Charlotte Davis", "department": "Engineering", "job_title": "QA Engineer", "salary": "39838.01", "date_of_joining": "2018-06-17", "is_active": true}
+{"employee_id": 41, "full_name": "Evelyn Hernandez", "department": "Finance", "job_title": "Senior Accountant", "salary": "110367.12", "date_of_joining": "2022-04-23", "is_active": true}
+{"employee_id": 42, "full_name": "Amelia Jones", "department": "Finance", "job_title": "Payroll Specialist", "salary": "67941.26", "date_of_joining": "2017-05-26", "is_active": false}
+{"employee_id": 43, "full_name": "Ava Anderson", "department": "Engineering", "job_title": "Software Engineer", "salary": "94516.13", "date_of_joining": "2020-02-27", "is_active": true}
+{"employee_id": 44, "full_name": "Ethan Williams", "department": "HR", "job_title": "HR Manager", "salary": "64198.49", "date_of_joining": "2020-12-01", "is_active": true}
+{"employee_id": 45, "full_name": "Mason Martin", "department": "Engineering", "job_title": "Engineering Manager", "salary": "128052.50", "date_of_joining": "2022-06-22", "is_active": false}
+{"employee_id": 46, "full_name": "Noah Jones", "department": "Finance", "job_title": "Financial Analyst", "salary": "136765.52", "date_of_joining": "2017-07-04", "is_active": true}
+{"employee_id": 47, "full_name": "Mia Martinez", "department": "HR", "job_title": "HR Manager", "salary": "54431.68", "date_of_joining": "2018-09-20", "is_active": false}
+{"employee_id": 48, "full_name": "Evelyn Thomas", "department": "Finance", "job_title": "Financial Analyst", "salary": "41075.82", "date_of_joining": "2021-01-30", "is_active": true}
+{"employee_id": 49, "full_name": "Liam Johnson", "department": "Finance", "job_title": "Senior Accountant", "salary": "106453.61", "date_of_joining": "2022-11-23", "is_active": true}
+{"employee_id": 50, "full_name": "Harper Moore", "department": "Sales", "job_title": "Sales Representative", "salary": "43424.87", "date_of_joining": "2015-12-05", "is_active": true}

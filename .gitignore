@@ -1,0 +1,16 @@
+# Local Spark distro and archives
+spark-*.tgz
+spark-*/
+
+# Local Iceberg warehouse/output
+iceberg/
+/home/varish/Documents/table/iceberg/
+
+# Large data artifacts
+*.avro
+*.parquet
+*.orc
+
+# Python
+__pycache__/
+*.pyc

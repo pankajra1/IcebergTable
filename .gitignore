@@ -2,14 +2,10 @@
 spark-*.tgz
 spark-*/
 
-# Local Iceberg warehouse/output
-iceberg/
-/home/varish/Documents/table/iceberg/
+# Local Iceberg warehouse/output (old absolute path for reference)
 
 # Large data artifacts
-*.avro
-*.parquet
-*.orc
+
 
 # Python
 __pycache__/

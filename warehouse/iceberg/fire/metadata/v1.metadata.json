@@ -1,0 +1,72 @@
+{
+  "format-version" : 2,
+  "table-uuid" : "fdbbe038-aecb-46cc-b2ca-79169b2d7f04",
+  "location" : "warehouse/iceberg/fire",
+  "last-sequence-number" : 0,
+  "last-updated-ms" : 1761840040923,
+  "last-column-id" : 7,
+  "current-schema-id" : 0,
+  "schemas" : [ {
+    "type" : "struct",
+    "schema-id" : 0,
+    "fields" : [ {
+      "id" : 1,
+      "name" : "employee_id",
+      "required" : false,
+      "type" : "int"
+    }, {
+      "id" : 2,
+      "name" : "full_name",
+      "required" : false,
+      "type" : "string"
+    }, {
+      "id" : 3,
+      "name" : "department",
+      "required" : false,
+      "type" : "string"
+    }, {
+      "id" : 4,
+      "name" : "job_title",
+      "required" : false,
+      "type" : "string"
+    }, {
+      "id" : 5,
+      "name" : "salary",
+      "required" : false,
+      "type" : "decimal(9, 2)"
+    }, {
+      "id" : 6,
+      "name" : "date_of_joining",
+      "required" : false,
+      "type" : "date"
+    }, {
+      "id" : 7,
+      "name" : "is_active",
+      "required" : false,
+      "type" : "boolean"
+    } ]
+  } ],
+  "default-spec-id" : 0,
+  "partition-specs" : [ {
+    "spec-id" : 0,
+    "fields" : [ ]
+  } ],
+  "last-partition-id" : 999,
+  "default-sort-order-id" : 0,
+  "sort-orders" : [ {
+    "order-id" : 0,
+    "fields" : [ ]
+  } ],
+  "properties" : {
+    "owner" : "root",
+    "write.format.default" : "avro",
+    "write.parquet.compression-codec" : "zstd"
+  },
+  "current-snapshot-id" : -1,
+  "refs" : { },
+  "snapshots" : [ ],
+  "statistics" : [ ],
+  "partition-statistics" : [ ],
+  "snapshot-log" : [ ],
+  "metadata-log" : [ ]
+}

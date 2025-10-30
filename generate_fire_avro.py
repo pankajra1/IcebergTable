@@ -2,11 +2,12 @@ import random
 from datetime import date, timedelta
 from decimal import Decimal, ROUND_HALF_UP
 from pathlib import Path
+from typing import Optional
 
 from fastavro import writer
 
 
-OUTPUT_PATH = Path("/home/varish/Documents/table/fire.avro")
+OUTPUT_PATH = Path("/home/varish/Downloads/IcebergTable/fire.avro")
 
 
 # Avro schema compatible with Apache Iceberg export expectations
@@ -139,7 +140,7 @@ def random_join_date(rng: random.Random) -> date:
     return today - timedelta(days=delta_days)
 
 
-def build_records(num_records: int, seed: int | None = 42):
+def build_records(num_records: int, seed: Optional[int] = 42):
     rng = random.Random(seed)
     records = []
     for employee_id in range(1, num_records + 1):

@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import Optional, Tuple, Iterator, Dict, Any
 
 
-OUTPUT_DIR = Path("/home/varish/Documents/table")
+OUTPUT_DIR = Path(__file__).resolve().parent
 
 
 SCHEMA = {

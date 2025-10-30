@@ -1,7 +1,7 @@
--- Configure a local Hadoop catalog rooted at /home/varish/Documents/table/iceberg
+-- Configure a local Hadoop catalog rooted at a repo-local path (relative)
 SET spark.sql.catalog.local=org.apache.iceberg.spark.SparkCatalog;
 SET spark.sql.catalog.local.type=hadoop;
-SET spark.sql.catalog.local.warehouse=/home/varish/Documents/table/iceberg;
+SET spark.sql.catalog.local.warehouse=warehouse/iceberg;
 
 DROP TABLE IF EXISTS local.fire;
 
